@@ -18,7 +18,7 @@ coverage.*
 profile.cov
 
 # Dependency directories (remove the comment below to include it)
-# vendor/
+vendor/
 
 # Go workspace file
 go.work
@@ -28,5 +28,14 @@ go.work.sum
 .env
 
 # Editor/IDE
-# .idea/
-# .vscode/
+.idea/
+.vscode/
+
+# HTML
+*.html
+
+# DS Store
+*.DS_Store
+
+# DS Store
+.DS_Store
